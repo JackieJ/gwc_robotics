@@ -16,7 +16,7 @@ Girls Who Code robotics session @ BlackRock SF
     * Go to **Tools -> Get Board Info** and it should print out some basic info of the board
     * Press **Ctrl + Shift + m** to open the serial monitor and make sure **baud rate = 96000**
 
-* Breadboard Basics
+* Breadboard Basics    
 ![breadboard_basics](./assets/Breadboad_Basics.png)
 
 ## Exercises

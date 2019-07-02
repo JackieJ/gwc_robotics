@@ -19,6 +19,9 @@ Girls Who Code robotics session @ BlackRock SF
 * Breadboard Basics    
 ![breadboard_basics](./assets/Breadboad_Basics.png)
 
+* Resistor Value Chart
+![resistor_value_chart](./assets/resistor-color-chart.png)
+
 ## Exercises
 * Basics: Lesson 2,3
 * Inputs: Lesson 5, 6

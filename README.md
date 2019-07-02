@@ -25,5 +25,26 @@ Girls Who Code robotics session @ BlackRock SF
 * Sensors: Lesson 10, 11, 
 * Remote Control: Lesson 13
 * LCD: Lesson 14 (NameTag)
-* Serial Monitor Control: Lesson 17
+* Effient Layout using Shift Register and Mux: Lesson 16
+* Serial Monitor Control: (hand in hand with Lesson #16) Lesson 17
 * Step Motor Controlled With Remote: Lesson 23, 24
+
+## Assignments
+* Lesson 2
+   * Double blink frequency after each 5 blinks
+   * Example, first 5 blinks are each 1 second apart, and on the second round, blinks would be 2 seconds apart from each other
+* Lesson 3
+   * Calculate current value (Ohm's law), power value (Watt's law) and understand why higher resistor value would make LED dimmer
+   * modify wiring + program to make LED blink
+* Lesson 5
+   * Turn LED on and off but use only one button as opposed to two
+* Lesson 6
+   * make a car horn - press button to honk and press again to stop (hint: assignement #5)
+* Lesson 10
+   * make the built-in LED blink faster when the ultrasonic sensor detects object (e.g.hands) approaching
+* Lesson 11
+   * (assignment is combined with lesson #14)
+* Lesson 13
+   * Wire in 4 LEDs, each corresponding to DOWN, UP, FAST BACK, FAST FORWARD respectively on the remote controller. Pressing a button would result in 1 LED turned on
+* Lesson 14
+   * Display temperature and humidity values on the LCD

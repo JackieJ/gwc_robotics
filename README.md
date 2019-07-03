@@ -23,6 +23,7 @@ Girls Who Code robotics session @ BlackRock SF
 ![resistor_value_chart](./assets/resistor-color-chart.png)
 
 ## Exercises
+Please refer to the English docs from [here](https://www.elegoo.com/tutorial/Elegoo%20Super%20Starter%20Kit%20for%20UNO%20V1.0.2019.05.27.zip)
 * Basics: Lesson 2,3
 * Inputs: Lesson 5, 6
 * Sensors: Lesson 10, 11, 
